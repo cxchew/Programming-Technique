@@ -48,5 +48,32 @@
 - Abouts:
   > Array is a variable that can store multiple data with same type. It is important for us to understand array to store large sets of data under a single variable name to avoid confusion occur when using several variables and causing an error.
 
+\
+\
+**6) <ins>Chapter 6: Input and Output**
+\
+\
+<img src="https://www3.ntu.edu.sg/home/ehchua/programming/cpp/images/IOstreams.png" width="50%" height="50%" >
+- About: 
+  > The chapter introduce us about the basic of using input and output in C++. At thhe same time, the chapter also taught us the way of exporting information from a file into our C++ coding and how to create output into our output file by using C++.
+
+\
+\
+**7) <ins>Chapter 7: Pointers**
+\
+\
+<img src="https://www.boardinfinity.com/blog/content/images/2023/04/Pointer-in-C--.png" width="50%" height="50%" >
+- About: 
+  > In this chapter, we are introduced to pointer and the way of using it in our C++ coding. From my understanding, pointer is used to point the address of a variable and output it. At the same time, we can also use a pointer as an array to store some values.
+
+\
+\
+**8) <ins>Chapter 8: Data Structure**
+\
+\
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2015/08/Data-Structures-and-Algorithms-C-1.jpg" width="50%" height="50%" >
+- About: 
+  > This is the final chapter for our programming technique 1. In this chapter, we have learnt to create our own variable by creating a data structure in our C++. This have simplify our process from declaring each variable in each function by creating a data structure that can use in any variable.
+
 
 
