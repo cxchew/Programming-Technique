@@ -75,5 +75,7 @@
 - About: 
   > This is the final chapter for our programming technique 1. In this chapter, we have learnt to create our own variable by creating a data structure in our C++. This have simplify our process from declaring each variable in each function by creating a data structure that can use in any variable.
 
+## Reflection
+From the Programming Technique 1 course, I have learned programming skills with C++ to solve the problems. Covering a range of programming concepts and tools, from introduction of programming to solving problems through development of C++ program, I have deepened my understanding about programming and how it is essential for our daily life. Through various topics that I learned from the course, I have also learned multiple ways to make my coding program simpler and more efficient. Overall, exploring the course had helped me to develop an ability to create a solution by using programming skills.
 
 
